@@ -25,7 +25,7 @@ $("#addTrainForm").submit(function(event) {
       
       // Grabbed values from text-boxes
       trainName = $("#trainNameInput").val().trim();
-      destination = $("#desinationInput").val().trim();
+      destination = $("#destinationInput").val().trim();
       frequency = $("#frequencyInput").val().trim();
       firstTime = $("#firstTrainTimeInput").val().trim();
     
