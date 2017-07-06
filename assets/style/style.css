@@ -15,6 +15,10 @@ body {
     /*color: white;*/
 }
 
+#slogan {
+    font-weight: bold;
+}
+
 .form-control {
     padding-left: 20px;
     width: 98%;
